@@ -1,4 +1,5 @@
-def first_challenge
+omg help 
+#def first_challenge
    epic_tragedy = {}
 end
 
